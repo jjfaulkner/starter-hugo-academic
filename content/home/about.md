@@ -1,23 +1,10 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: biography
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
-
-
+I am a PhD student at the University of Cambridge, using data-driven methods to gain insight on the physical processes which cause the breakdown of silicon anodes - these are of particular interest, since they represent one of the key technologies which may replace current Li-ion batteries in the near future.
