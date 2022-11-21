@@ -7,7 +7,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: /jjf44@cam.ac.uk
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -19,24 +19,21 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/jjfaulkner
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/james-j-faulkner
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Cambridge Graphene Centre, University of Cambridge
+    url: https://graphene.cam.ac.uk
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Solid State Physics
+      institution: University of Cambridge
+      year: 2021
+    - course: MPhys in Physics
+      institution: University of York
+      year: 2017
 superuser: true
 last_name: Bighetti
 role: PhD Student
