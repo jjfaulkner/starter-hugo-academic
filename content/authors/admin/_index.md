@@ -24,7 +24,7 @@ social:
     link: https://www.linkedin.com/james-j-faulkner
 organizations:
   - name: Cambridge Graphene Centre, University of Cambridge
-    url: https://graphene.cam.ac.uk
+    url: https://www.graphene.cam.ac.uk
 education:
   courses:
     - course: PhD in Solid State Physics
