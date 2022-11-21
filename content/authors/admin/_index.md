@@ -1,4 +1,7 @@
 ---
+title: James Faulkner
+role: PhD Student
+avatar_filename: avatar.jpeg
 bio: PhD Student at University of Cambridge | Master of Physics
 interests:
   - Artificial Intelligence
@@ -29,15 +32,13 @@ education:
   courses:
     - course: PhD in Solid State Physics
       institution: University of Cambridge
-      year: 2021
+      year: ""
     - course: MPhys in Physics
       institution: University of York
-      year: 2017
+      year: 2021
 superuser: true
 last_name: Bighetti
-role: PhD Student
 highlight_name: true
-title: James Faulkner
 first_name: Alice
 email: ""
 ---
