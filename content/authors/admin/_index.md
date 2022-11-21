@@ -21,7 +21,7 @@ social:
     link: https://github.com/jjfaulkner
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/james-j-faulkner
+    link: https://www.linkedin.com/in/james-j-faulkner/
 organizations:
   - name: Cambridge Graphene Centre, University of Cambridge
     url: https://www.graphene.cam.ac.uk
