@@ -6,7 +6,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /jjf44@cam.ac.uk
+    link: jjf44@cam.ac.uk
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -21,7 +21,7 @@ social:
     link: https://github.com/jjfaulkner
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/james-j-faulkner
+    link: https://www.linkedin.com/in/james-j-faulkner
 organizations:
   - name: Cambridge Graphene Centre, University of Cambridge
     url: https://www.graphene.cam.ac.uk
