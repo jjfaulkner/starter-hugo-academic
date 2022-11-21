@@ -2,8 +2,7 @@
 bio: PhD Student at University of Cambridge | Master of Physics
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Energy Storage
 social:
   - icon: envelope
     icon_pack: fas
