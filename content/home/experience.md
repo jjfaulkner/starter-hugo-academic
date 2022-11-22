@@ -31,6 +31,6 @@ subtitle: null
 design:
   columns: "2"
   background:
-    color: "#7aeacf"
+    color: rgba(122, 234, 207, 0)
 ---
 Doctor of Philosophy | **University of Cambridge**
