@@ -30,4 +30,7 @@ title: Experience
 subtitle: null
 design:
   columns: "2"
+  background:
+    color: "#7aeacf"
 ---
+Doctor of Philosophy | **University of Cambridge**
