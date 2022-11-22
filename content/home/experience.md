@@ -33,4 +33,3 @@ design:
   background:
     color: rgba(122, 234, 207, 0)
 ---
-Doctor of Philosophy | **University of Cambridge**
