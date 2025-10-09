@@ -6,6 +6,9 @@ bio: PhD Student at University of Cambridge | Master of Physics
 interests:
   - Artificial Intelligence
   - Energy Storage
+  - Education
+  - Photography
+  - Music
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,10 +31,12 @@ education:
       institution: University of York
       year: 2021
 superuser: true
-last_name: Bighetti
+last_name: Faulkner
 highlight_name: true
-first_name: Alice
+first_name: James
 email: ""
+skills:
+  - Python for data analysis
 ---
 I am a PhD student at the University of Cambridge, using data-driven methods to gain insight on the physical processes which cause the breakdown of silicon anodes - these are of particular interest, since they represent one of the key technologies which may replace current Li-ion batteries in the near future.
 
