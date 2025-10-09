@@ -24,9 +24,9 @@ organizations:
     url: https://www.graphene.cam.ac.uk
 education:
   courses:
-    - course: PhD in Solid State Physics
+    - course: PhD
       institution: University of Cambridge
-      year: ""
+      year: 2025
     - course: MPhys in Physics
       institution: University of York
       year: 2021
