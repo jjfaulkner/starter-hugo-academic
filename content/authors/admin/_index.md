@@ -42,4 +42,4 @@ I am a PhD student at the University of Cambridge, using data-driven methods to 
 
 I use Raman spectroscopy to probe the vibrational states in such systems, using phonon confinement models in interpret the spectra and learn about the evolution of the size distribution as the battery is discharged.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
